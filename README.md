@@ -1,5 +1,5 @@
 - 👋 Howdy,
-- 📫 How to reach me: aokhisa@gmail.com or https://abelkhisa.wixsite.com/portfolio
+- 📫 How to reach me: aokhisa@gmail.com
 - I'm all about data analysis and visualizations within the humanitarian-health nexus
 
 <!---
